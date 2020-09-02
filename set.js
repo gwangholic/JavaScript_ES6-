@@ -6,6 +6,7 @@ mySet.add("crong");
 mySet.add("hary");
 mySet.add("crong");
 mySet.delete("crong");
+
 console.log(mySet.has("crong"));
 
 mySet.forEach(function (v) {
